@@ -1,4 +1,4 @@
-package homework.chapters.chapter4;
+package homework.arrayutil;
 
 public class ArrayUtil {
     public static void main(String[] args) {
